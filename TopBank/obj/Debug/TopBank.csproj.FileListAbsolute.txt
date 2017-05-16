@@ -1,0 +1,6 @@
+C:\Users\mrube\Downloads\c#examples\TopBank\TopBank\bin\Debug\TopBank.exe.config
+C:\Users\mrube\Downloads\c#examples\TopBank\TopBank\bin\Debug\TopBank.exe
+C:\Users\mrube\Downloads\c#examples\TopBank\TopBank\bin\Debug\TopBank.pdb
+C:\Users\mrube\Downloads\c#examples\TopBank\TopBank\obj\Debug\TopBank.csprojResolveAssemblyReference.cache
+C:\Users\mrube\Downloads\c#examples\TopBank\TopBank\obj\Debug\TopBank.exe
+C:\Users\mrube\Downloads\c#examples\TopBank\TopBank\obj\Debug\TopBank.pdb
