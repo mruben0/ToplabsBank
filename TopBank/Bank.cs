@@ -75,7 +75,7 @@ namespace TopBank
         public Credit GiveCredit (Credit credit, Customer customer)
         {   if (credit.Amount <= this.MaxCredit && credit.Amount >= this.MinCredit)
             {
-                if (!this.BlackList.Contains(customer) || customer.wealth >= 1000 || customer.Salary >= 500)
+                if (!this.BlackList.Contains(customer) && customer.wealth >= 1000 && customer.Salary >= 500)
                 {
 
                     this.Amount -= credit.Amount;
